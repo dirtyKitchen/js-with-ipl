@@ -2,9 +2,10 @@
   "name": "js-with-ipl",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.html"
+    "start": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dirtyKitchen/js-with-ipl/issues"
   },
-  "homepage": "https://github.com/dirtyKitchen/js-with-ipl#readme"
+  "homepage": "https://github.com/dirtyKitchen/js-with-ipl#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
 }
