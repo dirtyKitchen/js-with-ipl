@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dirtyKitchen/js-with-ipl/issues"
   },
-  "homepage": "https://github.com/dirtyKitchen/js-with-ipl#readme"
+  "homepage": "https://github.com/dirtyKitchen/js-with-ipl#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
 }
